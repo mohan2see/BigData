@@ -1,4 +1,4 @@
-If you want to perform "yum update" then temporarily disable the sandbox.repo by setting the "enabled=0" inside the file "/etc/yum.repos.d/sandbox.repo" as following:
+13.If you want to perform "yum update" then temporarily disable the sandbox.repo by setting the "enabled=0" inside the file "/etc/yum.repos.d/sandbox.repo" as following:
 
 # cat /etc/yum.repos.d/sandbox.repo 
 [sandbox]
